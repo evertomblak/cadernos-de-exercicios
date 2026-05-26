@@ -5,12 +5,9 @@
 ####################################################
 
 Autor: Everton
-Descrição:
-Exercícios iniciais para praticar a função print()
+Descrição: Exercícios iniciais para praticar a função print()
 e conceitos básicos de Python.
 
-Curso:
-Python para Data Science — Primeiros Passos
 """
 
 # ==================================================
